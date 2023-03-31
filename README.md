@@ -2,7 +2,7 @@
 
 🌱 I'm currently learning that the pursuit of knowledge and self-improvement is a never-ending journey.
 
-👨‍💻 Feel free to check out my personal website, [browse](https://wassim-mesfioui.netlify.app/)
+👨‍💻 Feel free to check out my personal [website](https://wassim-mesfioui.netlify.app/)
 
 <!--
 <h2 align="left">Some of my projects</h2>
