@@ -2,7 +2,7 @@
 
 🌱 I'm currently learning that the pursuit of knowledge and self-improvement is a never-ending journey, like an unstoppable train, constantly moving forward.
 
-👨‍💻 Feel free to check out [my personal website](https://wassim-msf.vercel.app/)
+👨‍💻 Feel free to check out [my website](https://wassim-msf.vercel.app/)
 
 <!--
 <h2 align="left">Some of my projects</h2>
