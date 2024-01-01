@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Wassim</h1>
 
-🌱 I'm currently learning that the pursuit of knowledge and self-improvement is a never-ending journey.
+🌱 I'm currently learning that the pursuit of knowledge and self-improvement is a never-ending journey, like an unstoppable train, constantly moving forward.
 
 👨‍💻 Feel free to check out [my personal website](https://wassim-msf.vercel.app/)
 
